@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Hello from 'C:/Users/82102/Documents/reactprj/src/component/Hello.js';
+import Hello from 'C:/Users/82102/Documents/reactprj/src/Hello.js';
 
 function App() {
   return (
